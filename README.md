@@ -16,11 +16,11 @@ Above screenshot shows the Ganache test transaction 'to address' for Lane
 
 Below are screenshots of me hiring Ash for 60 hours at an hourly wage of 0.33 ETH for a total wage of 19.8 ETH
 
-![]()
+![](https://github.com/TaraMcDaniel/Unit19_Blockchain_Wallet_HW/blob/main/Screenshots/Ash_hire.png)
 Above screenshot shows the Ganache transaction for Ash
 
-![]()
+![](https://github.com/TaraMcDaniel/Unit19_Blockchain_Wallet_HW/blob/main/Screenshots/Ash_to%20address.png)
 Above screenshot shows the Ganache 'to address' for Ash's transaction
 
-![]()
+![](https://github.com/TaraMcDaniel/Unit19_Blockchain_Wallet_HW/blob/main/Screenshots/Streamlit%20page.png)
 Above screenshot shows the Streamlit page to verify Ash's 'to address' in Streamlit to his Ganache 'to address'
