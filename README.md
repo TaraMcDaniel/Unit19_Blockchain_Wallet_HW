@@ -24,3 +24,19 @@ Above screenshot shows the Ganache 'to address' for Ash's transaction
 
 ![](https://github.com/TaraMcDaniel/Unit19_Blockchain_Wallet_HW/blob/main/Screenshots/Streamlit%20page.png)
 Above screenshot shows the Streamlit page to verify Ash's 'to address' in Streamlit to his Ganache 'to address'
+
+## Updated Results
+
+I ran the transaction for Ash a second time, as I realized I forgot to include the address balance as indicated in the assignment.  Below are the screenshots for the second running of Ash
+
+![](https://github.com/TaraMcDaniel/Unit19_Blockchain_Wallet_HW/blob/main/Screenshots/Address%20Balance.png
+Above screenshot shows address balance
+
+![](https://github.com/TaraMcDaniel/Unit19_Blockchain_Wallet_HW/blob/main/Screenshots/Transaction2.png)
+Above screenshot shows transaction detail
+
+![](https://github.com/TaraMcDaniel/Unit19_Blockchain_Wallet_HW/blob/main/Screenshots/To%20Address.png)
+Above screenshot shows 'to address' detail
+
+![](https://github.com/TaraMcDaniel/Unit19_Blockchain_Wallet_HW/blob/main/Screenshots/Number%20of%20Blocks.png)
+Above screenshot shows block detail
